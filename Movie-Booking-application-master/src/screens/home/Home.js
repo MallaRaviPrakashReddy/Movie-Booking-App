@@ -57,10 +57,7 @@ class Home extends Component {
         id: "M1",
         title: "The Yashfather",
         storyline: "A chilling portrait of the Corleone family's rise and near fall from power in America along with balancing the story of the Sicilian clan's ugly crime business in which they are engaged.",
-        genres: [
-            "Crime",
-            "Drama"
-        ],
+       
         duration: 177,
         poster_url: "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
         trailer_url: "https://www.youtube.com/watch/?v=sY1S34973zA",
